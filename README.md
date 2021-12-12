@@ -1,3 +1,3 @@
 # Advent of Code
 
-Solutions and tests for https://adventofcode.com/
+Tracking work and solutions for https://adventofcode.com/
